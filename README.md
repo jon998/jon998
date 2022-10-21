@@ -21,5 +21,5 @@
   <a href="https://www.instagram.com/yonatanc3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:yongc998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yonatan-coti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+   <a href="https://yonatancoti.ml" target="_blank"><img src="https://img.shields.io/amo/dw/Web?color=fff&label=Web&logoColor=Yonatan&style=for-the-badge></a> 
 </div>
